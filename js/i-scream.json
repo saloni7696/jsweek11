@@ -36,6 +36,6 @@
         "calories" : 320,
         "type" : "milkshake-ice-cream" , 
         "ingredients"  : ["Choco Syrup " , "berries" , "Vanilla Base "],
-        "images" : "https://saloni7696.github.io/jsweek11/images/images/ice-cream-xtra2.svg"
+        "images" : "https://saloni7696.github.io/jsweek11/images/ice-cream-xtra2.svg"
     }]
 }
