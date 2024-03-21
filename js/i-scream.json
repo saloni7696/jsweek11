@@ -19,9 +19,23 @@
     },
     {
         "name" : "Strawberry Sprinkle" , 
-        "calories" : 350,
+        "calories" : 250,
         "type" : "milkshake-ice-cream" , 
-        "ingredients"  : ["Peach Syrup " , "Sprie " , "Vanilla Base "],
+        "ingredients"  : ["Strawberry Syrup " , "Sprie " , "Vanilla Base "],
         "images" : "https://saloni7696.github.io/jsweek11/images/strawberry-sprinkle.svg"
+    },
+    {
+        "name" : "BlueBerry" , 
+        "calories" : 390,
+        "type" : "milkshake-ice-cream" , 
+        "ingredients"  : ["Blueberry Syrup " , "choco " , "Vanilla Base "],
+        "images" : "https://saloni7696.github.io/jsweek11/images/ice-cream-xtra1.svg"
+    },
+    {
+        "name" : "Choco Sprinkle" , 
+        "calories" : 320,
+        "type" : "milkshake-ice-cream" , 
+        "ingredients"  : ["Choco Syrup " , "berries" , "Vanilla Base "],
+        "images" : "https://saloni7696.github.io/jsweek11/images/images/ice-cream-xtra2.svg"
     }]
 }
