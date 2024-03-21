@@ -56,7 +56,7 @@ function showTopFlavors(jsonData){
         h2.textContent = "name: " + topFlavors[i].name;
         p1.textContent = "calories: " + topFlavors[i].calories;
         p2.textContent = "type: " + topFlavors[i].type;
-        image.setAttribute("src", topFlavors[i].image); 
+        image.setAttribute("src", topFlavors[i].images); 
 // STEP 10g: Build a loop for the ingredients array in the JSON
         const ingredients = topFlavors[i].ingredients ; 
         for (let j = 0 ; j  < ingredients.length ; j++){
